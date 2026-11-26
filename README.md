@@ -26,6 +26,7 @@ Learning in public across data engineering and full-stack web development.
 ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ## 📌 Featured projects
 
@@ -35,6 +36,7 @@ Learning in public across data engineering and full-stack web development.
 | [**capstone_project**](https://github.com/dbiplab3/capstone_project) | Full-stack MEAN food-ordering app — Angular frontend, Express/TypeScript + MongoDB backend, JWT auth |
 | [**Simplilearn-Mean-Stack-Tasks**](https://github.com/dbiplab3/Simplilearn-Mean-Stack-Tasks) | MEAN stack coursework — a chat app, a quiz app, a to-do PWA, and more |
 | [**Python-Work**](https://github.com/dbiplab3/Python-Work) | Python tools, including a remote CSV/XML/JSON file profiler |
+| [**n8n**](https://github.com/dbiplab3/n8n) | n8n workflow automations — Jira/taxonomy request handling, intake forms, and an LLM-curated content digest |
 
 ## 📊 GitHub stats
 
